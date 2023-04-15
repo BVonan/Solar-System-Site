@@ -5,15 +5,34 @@ img{
 	border-radius: 15px;
 }
 
-#footer{
-    width:7.5%;
+#footerTxt{
+    background-color: white;
 	right-margin:auto;
 	left-margin:auto;
 	border-radius: 15px;
+    margin: 0 auto;
+
 }
 
-body{
-    text-align:center;
+#exp, #dt{
+background-color: white;
     
 }
 
+#footerPic{
+    height:200px;
+    width: 300px;
+     background-color: white;
+}
+body{
+    text-align:center;
+    background-color:lightgreen;
+}
+
+nav{
+    background-color:lightblue;
+}
+
+#nm{
+    background-image: url("https://img.freepik.com/premium-vector/star-sky-space-stars-background-glitter-particles_160081-317.jpg");
+}
